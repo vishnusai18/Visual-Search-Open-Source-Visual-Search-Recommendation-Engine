@@ -1,0 +1,5 @@
+numpy
+PIL
+get-mnist
+transformers[torch]
+faiss-cpu
