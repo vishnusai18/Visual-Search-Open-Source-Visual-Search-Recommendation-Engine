@@ -14,7 +14,7 @@
   and then recommend accordingly.
 - **Scalable Indexing** – Powered by FAISS for fast similarity search.
 - **Embeddings Storage** – Precomputed embeddings stored for quick retrieval.  
-  *(Embeddings link coming soon – [Google Drive Placeholder](#))*
+  *(Embeddings link – [Google Drive Placeholder](#)) https://drive.google.com/drive/folders/1En6Ue-S9w1UgtPT5wtNmgqeNjbiB1vTS?usp=sharing*
 
 ---
 
